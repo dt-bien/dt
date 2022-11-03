@@ -1,0 +1,1 @@
+<img src="./images/avatar.jpg" alt="">
